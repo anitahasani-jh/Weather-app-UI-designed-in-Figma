@@ -1,33 +1,29 @@
-# Weather-app-UI-designed-in-Figma
-# Weather App UI
+# Weather App UI Design
 
-A modern weather application UI designed in Figma.
+## Overview
+This project presents a user interface design for a Weather Application created in Figma. The goal is to provide a clean, modern, and user-friendly experience for viewing weather information.
 
-## About the Project
-
-This project is a mobile weather application interface designed with a clean and modern user experience.
-
-## Design Tool
-
-- Figma
+## Project Goals
+- Create a visually appealing weather application interface.
+- Organize weather information in a clear and accessible way.
+- Explore UI/UX design principles.
+- Practice interface design using Figma.
 
 ## Features
+- Weather-focused user interface.
+- Clear information layout.
+- Modern visual design.
+- User-friendly navigation concept.
+- Organized presentation of weather details.
 
-- Current weather information
-- Temperature display
-- Weather condition cards
-- Multiple locations
-- Mobile-friendly UI
-- Clean and modern design
+## Design Tool
+- Figma
 
-## Preview
+## Project Preview
+Add screenshots of the interface here to showcase the final design.
 
-The project screenshots are included in the `weather.zip` file.
+## Learning Outcomes
+Through this project, I practiced UI layout design, visual organization, and user experience principles.
 
-## Figma Design
-
-[View the full design in Figma](https://www.figma.com/design/dwLZAJvhZfr1usIlTnPJRv/wethear-ui)
-
-## Project Files
-
-- `weather.zip` — Project preview images
+## Author
+Anita Hasani
